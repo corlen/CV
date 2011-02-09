@@ -16,3 +16,5 @@ Next steps:
   git commit -m 'first commit'
   git remote add origin git@github.com:corlen/CV.git
   git push origin master
+
+Transformar em pdf : pdflatex [arquivo]
