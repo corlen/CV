@@ -3,3 +3,6 @@
 *.out
 *.gz
 .DS_Store
+.tex.backup
+.tex~
+
